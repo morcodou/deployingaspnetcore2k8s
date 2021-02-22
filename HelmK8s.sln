@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelmK8s.API", "HelmK8s.API\HelmK8s.API.csproj", "{FB0FFC62-4C42-46E2-981D-DDA9094AF8E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelmK8s.Service", "HelmK8s.Service\HelmK8s.Service.csproj", "{C72C07E4-C953-47D1-9E50-6174C2C217E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB0FFC62-4C42-46E2-981D-DDA9094AF8E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0FFC62-4C42-46E2-981D-DDA9094AF8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0FFC62-4C42-46E2-981D-DDA9094AF8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0FFC62-4C42-46E2-981D-DDA9094AF8E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C72C07E4-C953-47D1-9E50-6174C2C217E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C72C07E4-C953-47D1-9E50-6174C2C217E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C72C07E4-C953-47D1-9E50-6174C2C217E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C72C07E4-C953-47D1-9E50-6174C2C217E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6599962-3243-42BB-A857-88EB45E8CC3A}
+	EndGlobalSection
+EndGlobal
